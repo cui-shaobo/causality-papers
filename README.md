@@ -21,7 +21,6 @@ If you find our survey useful for your research on commonsense causality, please
 
 - [Handbook for researchers interested in commonsense causality](#handbook-for-researchers-interested-in-commonsense-causality)
 - [Benchmarks](#benchmarks)
-  - [Commonsense Types](#commonsense-types)
 - [Classification by Commonsense Types](#classification-by-commonsense-types)
   - [Overview of Causal Datasets](#overview-of-causal-datasets)
 
