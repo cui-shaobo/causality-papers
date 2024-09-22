@@ -30,7 +30,7 @@ If you find our survey useful for your research on commonsense causality, please
 ![Alt text](./handbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
 
 ## Benchmarks
-## Classification by Commonsense Types
+### Classification by Commonsense Types
 
 According to the commonsense types (see Appendix for more background on commonsense types), causality can be roughly classified into four categories:
 
@@ -91,5 +91,7 @@ According to the commonsense types (see Appendix for more background on commonse
 | **CEGraph** [Li et al., 2021](https://arxiv.org/abs/2107.09846) | Phrase | 89.1M | 89.1M | - | General | Large lexical causal knowledge graph associated with CausalBank. | Missing |
 
 
+## Acquisition Methods over Commonsense Causality
 
+## Reasoning Methods over Commonsense Causality
 
