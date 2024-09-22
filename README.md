@@ -32,11 +32,11 @@ If you find our survey useful for your research on commonsense causality, please
 
 | Dataset | Annotation Unit | \#Overall | \#Causal | C.F. | Commonsense Types | Brief Introduction | License |
 |---------|-----------------|-----------|----------|------|-------------------|--------------------|---------|
-| **First-Principle Causality** |
+| ### **First-Principle Causality** |
 | **CauseEffectPairs** [Mooij et al., 2016](https://jmlr.org/papers/volume17/14-518/14-518.pdf) | Variable | 108 | 108 | - | General | 108 different cause-effect pairs selected from 37 datasets covering domains like meteorology, economy, medicine, engineering, biology. Focuses on the causal discovery problem (deciding whether X causes Y or Y causes X). | FreeBSD |
 | **IHDP** [Shalit et al., 2017](http://proceedings.mlr.press/v70/shalit17a.html) | Variable | 2,000 | 2,000 | ½ | Biological | IHDP is the Infant Health and Development Program dataset, focusing on the effect of home visits on cognitive test scores for infants. | Custom Dataset Terms |
 | **CRAFT** [Ates et al., 2022](https://aclanthology.org/2022.findings-acl.205) | Video | 58,000 | - | Full | Physical | A video question-answering dataset requiring comprehension of physical forces and object interactions. Contains descriptive and counterfactual questions. | MIT |
-| **Commonsense Causality in Text Format** |
+| ### **Commonsense Causality in Text Format** |
 | **Temporal-Causal** [Bethard et al., 2008](https://aclanthology.org/L08-1018/) | Clause | 1,000 | 271 | - | Temporal | A corpus of 1,000 event pairs covering both temporal and causal relations. | Missing |
 | **CW** [Ferguson & Sanford, 2008](https://www.sciencedirect.com/science/article/pii/S0749596X07000770) | Clause | 128 | 128 | Full | General | CW is collected from psycholinguistic experiments and includes counterfactual examples. | Missing |
 | **SemEval07-T4** [Girju et al., 2007](https://aclanthology.org/S07-1003/) | Phrase | 220 | 114 | - | General | Focuses on semantic analysis and automatic recognition of relations between word pairs, including causal relations. | Missing |
@@ -62,7 +62,7 @@ If you find our survey useful for your research on commonsense causality, please
 | **CW-extended** [Li et al., 2023](https://aclanthology.org/2023.acl-short.70) | Sentence | 10,848 | 10,848 | Full | General | Augmentation of CW dataset through word replacements, focusing on counterfactual statements. | Missing |
 | **CausalQuest** [Ceraolo et al., 2024](https://arxiv.org/abs/2405.20318) | Sentence | 13,500 | 13,500 | ½ | General | A dataset of natural causal questions collected from social networks, search engines, and AI assistants. | Apache 2.0 |
 | **δ-CAUSAL** [Cui et al., 2024](https://aclanthology.org/2024.findings-acl.384/) | Sentence | 11,245 | 11,245 | ½ | General | Causal dataset exploring defeasibility and uncertainty in commonsense causality. | MIT |
-| **Commonsense Causality in Knowledge Graph Format** |
+| ### **Commonsense Causality in Knowledge Graph Format** |
 | **CausalNet** [Luo et al., 2016](http://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12818) | Word | 11M | 11M | - | General | Vast collection of causal relationships from Bing web pages. | Missing |
 | **ConceptNet** [Speer et al., 2017](https://arxiv.org/abs/1612.03975) | Phrase | 473,000 | - | - | General | Knowledge graph version of the Open Mind Common Sense project, including causal relations. | CC BY-SA 4.0 |
 | **Event2Mind** [Rashkin et al., 2018](https://aclanthology.org/P18-1043) | Phrase | 25,000 | - | - | Social | Annotates intent and reactions to given events, including causal relations. | MIT |
