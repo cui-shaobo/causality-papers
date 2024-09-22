@@ -35,26 +35,16 @@ If you find our survey useful for your research on commonsense causality, please
 According to the commonsense types (see Appendix for more background on commonsense types), causality can be roughly classified into four categories:
 
 1. **Physical Causality**  
-   Physical causality refers to the cause-effect relationships grounded in the physical world. It typically covers domains such as physics, chemistry, and environmental science. Example datasets include:
-   - CRAFT ([Ates et al., 2022](https://aclanthology.org/2022.findings-acl.205))
-   - e-CARE ([Du et al., 2022](https://aclanthology.org/2022.acl-long.33))
+   Physical causality refers to the cause-effect relationships grounded in the physical world. It typically covers domains such as physics, chemistry, and environmental science. Example datasets include: CRAFT ([Ates et al., 2022](https://aclanthology.org/2022.findings-acl.205)), e-CARE ([Du et al., 2022](https://aclanthology.org/2022.acl-long.33)). 
 
 2. **Social Causality**  
-   Social causality involves understanding social norms, cultures, human behavior, intents, and reactions. For instance, criticism (cause) can lead to depression (effect) in a social context. It covers domains like law, culture, education, and psychology. Example datasets include:
-   - ATOMIC ([Sap et al., 2019](https://aclanthology.org/D19-1454))
-   - GLUCOSE ([Mostafazadeh et al., 2020](https://aclanthology.org/2020.emnlp-main.185))
-   - IfQA ([Yu et al., 2023](https://aclanthology.org/2023.emnlp-main.515))
+   Social causality involves understanding social norms, cultures, human behavior, intents, and reactions. For instance, criticism (cause) can lead to depression (effect) in a social context. It covers domains like law, culture, education, and psychology. Example datasets include: ATOMIC ([Sap et al., 2019](https://aclanthology.org/D19-1454)), GLUCOSE ([Mostafazadeh et al., 2020](https://aclanthology.org/2020.emnlp-main.185)), IfQA ([Yu et al., 2023](https://aclanthology.org/2023.emnlp-main.515)), etc. 
 
 3. **Biological Causality**  
-   Biological causality relates to cause-effect pairs that govern biological processes and phenomena, such as how a healthy diet contributes to longevity. Example datasets include:
-   - BioCause ([Mihuailua et al., 2013](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-2))
-   - CBND ([Boue et al., 2015](https://aclanthology.org/D15-1077))
+   Biological causality relates to cause-effect pairs that govern biological processes and phenomena, such as how a healthy diet contributes to longevity. Example datasets include: BioCause ([Mihuailua et al., 2013](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-2)), CBND ([Boue et al., 2015](https://aclanthology.org/D15-1077)), etc. 
 
 4. **Temporal Causality**  
-   Temporal causality involves the sequential understanding that a cause must precede an effect in time. Example datasets include:
-   - Temporal-Causal ([Bethard et al., 2008](https://aclanthology.org/L08-1018/))
-   - CausalTimeBank ([Mirza et al., 2014](https://aclanthology.org/W14-0702))
-   - CaTeRs ([Mostafazadeh et al., 2016](https://aclanthology.org/W16-1007))
+   Temporal causality involves the sequential understanding that a cause must precede an effect in time. Example datasets include: Temporal-Causal ([Bethard et al., 2008](https://aclanthology.org/L08-1018/)), CausalTimeBank ([Mirza et al., 2014](https://aclanthology.org/W14-0702)), CaTeRs ([Mostafazadeh et al., 2016](https://aclanthology.org/W16-1007)), etc. 
 
 
 ### Overview of Causal Datasets
