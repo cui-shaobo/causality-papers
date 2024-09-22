@@ -1,6 +1,19 @@
 # Papers about Commonsense Causality
 This is the paper list for the literature summarized in our survey published in EMNLP 2024: [The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning](https://arxiv.org/abs/2406.19307)
 
+## Citation 🫡
+
+If you find our survey useful for your research on commonsense causality, please support us by citing our work as follows:
+
+```bibtex
+@article{cui2024odyssey,
+  title={The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning},
+  author={Cui, Shaobo and Jin, Zhijing and Sch{\"o}lkopf, Bernhard and Faltings, Boi},
+  journal={arXiv preprint arXiv:2406.19307},
+  year={2024}
+}
+```
+
 ## Benchmarks
 ## Overview of Causal Datasets
 
