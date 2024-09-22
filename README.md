@@ -15,8 +15,15 @@ If you find our survey useful for your research on commonsense causality, please
 ```
 
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Handbook for researchers interested in commonsense causality](#handbook-for-researchers-interested-in-commonsense-causality)
+- [Benchmarks](#benchmarks)
+- [Overview of Causal Datasets](#overview-of-causal-datasets)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Handbook for researchers interested in commonsense causality
 ![Alt text](./handbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
