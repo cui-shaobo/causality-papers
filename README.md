@@ -14,6 +14,11 @@ If you find our survey useful for your research on commonsense causality, please
 }
 ```
 
+## Handbook for researchers interested in commonsense causality
+![Alt text](hanbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
+
+
+
 ## Benchmarks
 ## Overview of Causal Datasets
 
