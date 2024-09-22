@@ -29,9 +29,8 @@ If you find our survey useful for your research on commonsense causality, please
 
 ## Handbook for researchers interested in commonsense causality
 ![Alt text](./handbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
-## Benchmarks
-### Commonsense Types
 
+## Benchmarks
 ## Classification by Commonsense Types
 
 According to the commonsense types (see Appendix for more background on commonsense types), causality can be roughly classified into four categories:
