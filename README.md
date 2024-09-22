@@ -50,13 +50,13 @@ If you find our survey useful for your research on commonsense causality, please
 | **CausalQuest** [Ceraolo et al., 2024](https://arxiv.org/abs/2405.20318) | Sentence | 13,500 | 13,500 | ½ | A dataset of natural causal questions collected from social networks, search engines, and AI assistants. | Apache 2.0 |
 | **δ-CAUSAL** [Cui et al., 2024](https://aclanthology.org/2024.findings-acl.384/) | Sentence | 11,245 | 11,245 | ½ | Causal dataset exploring defeasibility and uncertainty in commonsense causality. | MIT |
 | **Commonsense Causality in Knowledge Graph Format** |
-| **CausalNet** [Luo et al., 2016](#) | Word | 11M | 11M | - | Vast collection of causal relationships from Bing web pages. | Missing |
-| **ConceptNet** [Speer et al., 2017](#) | Phrase | 473,000 | - | - | Knowledge graph version of the Open Mind Common Sense project, including causal relations. | CC BY-SA 4.0 |
-| **Event2Mind** [Rashkin et al., 2018](#) | Phrase | 25,000 | - | - | Annotates intent and reactions to given events, including causal relations. | MIT |
-| **ATOMIC** [Sap et al., 2019](#) | Sentence | 877K | - | ½ | Collects commonsense knowledge in the form of "if-then" relations. | CC BY 4.0 |
-| **ASER** [Zhang et al., 2020](#) | Sentence | 64M | 494K | - | Eventuality knowledge graph extracted from large textual data. | MIT |
-| **CauseNet** [Heindorf et al., 2020](#) | Word | 11M | 11M | - | Causal relations extracted from web sources with 83% precision. | CC BY 4.0 |
-| **CEGraph** [Li et al., 2021](#) | Phrase | 89.1M | 89.1M | - | Large lexical causal knowledge graph associated with CausalBank. | Missing |
+| **CausalNet** [Luo et al., 2016](http://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12818) | Word | 11M | 11M | - | Vast collection of causal relationships from Bing web pages. | Missing |
+| **ConceptNet** [Speer et al., 2017](https://arxiv.org/abs/1612.03975) | Phrase | 473,000 | - | - | Knowledge graph version of the Open Mind Common Sense project, including causal relations. | CC BY-SA 4.0 |
+| **Event2Mind** [Rashkin et al., 2018](https://aclanthology.org/P18-1043) | Phrase | 25,000 | - | - | Annotates intent and reactions to given events, including causal relations. | MIT |
+| **ATOMIC** [Sap et al., 2019](https://aclanthology.org/D19-1454) | Sentence | 877K | - | ½ | Collects commonsense knowledge in the form of "if-then" relations. | CC BY 4.0 |
+| **ASER** [Zhang et al., 2020](https://dl.acm.org/doi/10.1145/3366423.3380107) | Sentence | 64M | 494K | - | Eventuality knowledge graph extracted from large textual data. | MIT |
+| **CauseNet** [Heindorf et al., 2020](https://dl.acm.org/doi/10.1145/3340531.3412763) | Word | 11M | 11M | - | Causal relations extracted from web sources with 83% precision. | CC BY 4.0 |
+| **CEGraph** [Li et al., 2021](https://arxiv.org/abs/2107.09846) | Phrase | 89.1M | 89.1M | - | Large lexical causal knowledge graph associated with CausalBank. | Missing |
 
 
 
