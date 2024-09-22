@@ -7,19 +7,19 @@ This is the paper list for the literature summarized in our survey published in 
 | Dataset | Annotation Unit | \#Overall | \#Causal | C.F. | Brief Introduction | License |
 |---------|-----------------|-----------|----------|------|--------------------|---------|
 | **First-Principle Causality** |
-| **CauseEffectPairs** [Mooij et al., 2016](#) | Variable | 108 | 108 | - | 108 different cause-effect pairs selected from 37 datasets covering domains like meteorology, economy, medicine, engineering, biology. Focuses on the causal discovery problem (deciding whether X causes Y or Y causes X). | FreeBSD |
-| **IHDP** [Shalit et al., 2017](#) | Variable | 2,000 | 2,000 | ½ | IHDP is the Infant Health and Development Program dataset, focusing on the effect of home visits on cognitive test scores for infants. | Custom Dataset Terms |
-| **CRAFT** [Ates et al., 2022](#) | Video | 58,000 | - | Full | A video question-answering dataset requiring comprehension of physical forces and object interactions. Contains descriptive and counterfactual questions. | MIT |
+| **CauseEffectPairs** [Mooij et al., 2016](https://jmlr.org/papers/volume17/14-518/14-518.pdf) | Variable | 108 | 108 | - | 108 different cause-effect pairs selected from 37 datasets covering domains like meteorology, economy, medicine, engineering, biology. Focuses on the causal discovery problem (deciding whether X causes Y or Y causes X). | FreeBSD |
+| **IHDP** [Shalit et al., 2017](http://proceedings.mlr.press/v70/shalit17a.html) | Variable | 2,000 | 2,000 | ½ | IHDP is the Infant Health and Development Program dataset, focusing on the effect of home visits on cognitive test scores for infants. | Custom Dataset Terms |
+| **CRAFT** [Ates et al., 2022](https://aclanthology.org/2022.findings-acl.205) | Video | 58,000 | - | Full | A video question-answering dataset requiring comprehension of physical forces and object interactions. Contains descriptive and counterfactual questions. | MIT |
 | **Commonsense Causality in Text Format** |
-| **Temporal-Causal** [Bethard et al., 2008](#) | Clause | 1,000 | 271 | - | A corpus of 1,000 event pairs covering both temporal and causal relations. | Missing |
-| **CW** [Ferguson & Sanford, 2008](#) | Clause | 128 | 128 | Full | CW is collected from psycholinguistic experiments and includes counterfactual examples. | Missing |
-| **SemEval07-T4** [Girju et al., 2007](#) | Phrase | 220 | 114 | - | Focuses on semantic analysis and automatic recognition of relations between word pairs, including causal relations. | Missing |
-| **SemEval10-T8** [Hendrickx et al., 2010](#) | Phrase | 10,717 | 1,331 | - | Similar to SemEval07-T4, focuses on classification of semantic relations between pairs of nominals, including cause-effect relations. | CC BY 3.0 Unported |
-| **COPA** [Roemmele et al., 2011](#) | Sentence | 2,000 | 1,000 | - | Each question has a premise and two plausible causes/effects, with the correct one being more plausible. | BSD 2-Clause |
-| **EventCausality** [Do et al., 2011](#) | Clause | 583 | 583 | - | A causality corpus built by detecting causality between events using discourse connectives. | Missing |
-| **BioCause** [Mihuailua et al., 2013](#) | Clause | 851 | 851 | - | Contains 851 causal relations from 19 biomedical journal articles in infectious diseases. | Creative Commons |
-| **CausalTimeBank** [Mirza et al., 2014](#) | Sentence | 318 | 318 | - | Timebank corpus with causal samples taken from TempEval-3 corpus. | CC BY-NC-SA 3.0 |
-| **CaTeRs** [Mostafazadeh et al., 2016](#) | Sentence | 2,502 | 308 | - | Causal and temporal relations annotated from ROCStories corpus. | Missing |
+| **Temporal-Causal** [Bethard et al., 2008](https://aclanthology.org/L08-1018/) | Clause | 1,000 | 271 | - | A corpus of 1,000 event pairs covering both temporal and causal relations. | Missing |
+| **CW** [Ferguson & Sanford, 2008](https://www.sciencedirect.com/science/article/pii/S0749596X07000770) | Clause | 128 | 128 | Full | CW is collected from psycholinguistic experiments and includes counterfactual examples. | Missing |
+| **SemEval07-T4** [Girju et al., 2007](https://aclanthology.org/S07-1003/) | Phrase | 220 | 114 | - | Focuses on semantic analysis and automatic recognition of relations between word pairs, including causal relations. | Missing |
+| **SemEval10-T8** [Hendrickx et al., 2010](https://aclanthology.org/S10-1006/) | Phrase | 10,717 | 1,331 | - | Similar to SemEval07-T4, focuses on classification of semantic relations between pairs of nominals, including cause-effect relations. | CC BY 3.0 Unported |
+| **COPA** [Roemmele et al., 2011](http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418) | Sentence | 2,000 | 1,000 | - | Each question has a premise and two plausible causes/effects, with the correct one being more plausible. | BSD 2-Clause |
+| **EventCausality** [Do et al., 2011](https://aclanthology.org/D11-1027) | Clause | 583 | 583 | - | A causality corpus built by detecting causality between events using discourse connectives. | Missing |
+| **BioCause** [Mihuailua et al., 2013](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-2) | Clause | 851 | 851 | - | Contains 851 causal relations from 19 biomedical journal articles in infectious diseases. | Creative Commons |
+| **CausalTimeBank** [Mirza et al., 2014](https://aclanthology.org/W14-0702) | Sentence | 318 | 318 | - | Timebank corpus with causal samples taken from TempEval-3 corpus. | CC BY-NC-SA 3.0 |
+| **CaTeRs** [Mostafazadeh et al., 2016](https://aclanthology.org/W16-1007) | Sentence | 2,502 | 308 | - | Causal and temporal relations annotated from ROCStories corpus. | Missing |
 | **AltLex** [Hidey & McKeown, 2016](#) | Clause | 44,240 | 4,595 | - | An open class of markers that contains causality. | Missing |
 | **BECauSE 2.0** [Dunietz et al., 2017](#) | Sentence | 729 | 554 | - | Focuses on causal relations and other co-existing relations. | MIT |
 | **ESL** [Caselli & Vossen, 2017](#) | Sentence | 2,608 | 2,608 | - | A corpus for detecting causal and temporal relations. | CC BY 3.0 Unported |
