@@ -16,12 +16,7 @@ If you find our survey useful for your research on commonsense causality, please
 
 ## Handbook for researchers interested in commonsense causality
 ![Alt text](./handbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
-
-
-
 ## Benchmarks
-## Overview of Causal Datasets
-
 ## Overview of Causal Datasets
 
 | Dataset | Annotation Unit | \#Overall | \#Causal | C.F. | Commonsense Types | Brief Introduction | License |
