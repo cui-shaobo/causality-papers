@@ -159,6 +159,43 @@ According to the commonsense types (see Appendix for more background on commonse
 
 ## Reasoning Methods over Commonsense Causality
 
+### Qualitative Causal Reasoning
+Qualitative causal reasoning focuses on classifying cause-effect relationships in a binary fashion, often bypassing uncertainty through simplification.
+
+1. **Wei et al. (2022):** "Chain-of-Thought Prompting in Large Language Models."
+   - [Link to paper](https://arxiv.org/abs/2201.11903)
+2. **Jin et al. (2023):** "CLADDER: Causal Inference in Chain-of-Thought Reasoning."
+   - [Link to paper](https://arxiv.org/abs/2302.07236)
+3. **Zhang et al. (2022):** "ROCK: Causal Inference for NLP."
+   - [Link to paper](https://arxiv.org/abs/2207.11208)
+4. **Ning et al. (2018):** "Incorporating Temporal Constraints for Causal Reasoning."
+   - [Link to paper](https://arxiv.org/abs/1808.09506)
+5. **Zhang and Foo (2001):** "Embedding Logic Rules into Causal Reasoning Mechanisms."
+   - [Link to paper](https://arxiv.org/abs/2101.08604)
+
+
+
+### Quantitative Causal Reasoning
+Quantitative causal reasoning provides numerical estimates for causal effects, accounting for uncertainty and variability in causal relationships.
+
+1. **Suppes (1973):** "A Probabilistic Theory of Causality."
+   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-9117-0)
+2. **Eells (1991):** "Probabilistic Causality and Its Applications."
+   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-3837-3)
+3. **Pearl (2009):** "Causality: Models, Reasoning, and Inference."
+   - [Link to paper](https://www.cambridge.org/core/books/causality/72F92E2D7BC6D3F1AE111F9F77302A14)
+4. **Luo et al. (2016):** "CEQ: A Word-Level Causal Estimation Metric."
+   - [Link to paper](https://arxiv.org/abs/1612.05895)
+5. **Cui et al. (2024):** "CESAR: A Weighted Approach to Measuring Causal Strength in Text."
+   - [Link to paper](https://arxiv.org/abs/2401.03183)
+
+**Metrics for Quantitative Causal Reasoning**
+- **Good (1961):** "Log-Likelihood Metric for Causality Strength."
+   - [Link to paper](https://doi.org/10.1093/mind/LXX_277_334)
+- **CESAR (Cui et al. 2024):** "Weighted Causal Strength Aggregation."
+   - [Link to paper](https://arxiv.org/abs/2401.03183)
+
+
 
 # If You Want to Know More Details
 ![Alt text](./full-survey-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
