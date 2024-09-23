@@ -30,6 +30,8 @@ If you find our survey useful for your research on commonsense causality, please
     - [Manual Annotation Methods](#manual-annotation-methods)
     - [Comparison of Methods](#comparison-of-methods)
   - [Reasoning Methods over Commonsense Causality](#reasoning-methods-over-commonsense-causality)
+    - [Qualitative Causal Reasoning](#qualitative-causal-reasoning)
+    - [Quantitative Causal Reasoning](#quantitative-causal-reasoning)
 - [If You Want to Know More Details](#if-you-want-to-know-more-details)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
