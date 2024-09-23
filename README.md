@@ -24,6 +24,14 @@ If you find our survey useful for your research on commonsense causality, please
   - [Classification by Commonsense Types](#classification-by-commonsense-types)
   - [Overview of Causal Datasets](#overview-of-causal-datasets)
 - [Acquisition Methods over Commonsense Causality](#acquisition-methods-over-commonsense-causality)
+  - [Extractive Methods](#extractive-methods)
+    - [Papers](#papers)
+    - [Datasets/Workshops](#datasetsworkshops)
+  - [Generative Methods](#generative-methods)
+    - [Papers](#papers-1)
+  - [Manual Annotation Framework](#manual-annotation-framework)
+    - [Papers](#papers-2)
+  - [Comparison of Methods](#comparison-of-methods)
 - [Reasoning Methods over Commonsense Causality](#reasoning-methods-over-commonsense-causality)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
