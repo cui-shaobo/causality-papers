@@ -95,5 +95,37 @@ According to the commonsense types (see Appendix for more background on commonse
 
 ## Acquisition Methods over Commonsense Causality
 
+### Extractive Methods
+#### Papers
+- Sakaji et al. (2008): "Extracting Causal Relationships Using Clue-Based Approaches."
+- Cole et al. (2006): "A Lightweight Tool for Automatically Extracting Causal Relationships from Text."
+- Girju (2003): "Automatic Detection of Causal Relations for Question Answering."
+
+#### Datasets/Workshops
+- SemEval07-T4: [Link to dataset](https://example.com)
+- CNN-extraction: [Link to dataset](https://example.com)
+- BioInfer: [Link to dataset](https://example.com)
+
+### Generative Methods
+#### Papers
+- Rashkin et al. (2018): "Event2Mind: Generating Intents/Reactions for Events."
+- Choudhry (2020): "CauseWorks: Generating Causal Graphs into Narratives."
+
+### Manual Annotation Framework
+#### Papers
+- Palmer et al. (2005): "PropBank: Proposition Bank Annotation Scheme."
+- Mihaila et al. (2013): "BioCause: A Dataset for Causal Annotations in Biomedical Text."
+- Dunietz (2018): "Annotating Causal Relations with CxG."
+- FrameNet: [Link to dataset](https://example.com)
+- PDTB: [Link to dataset](https://example.com)
+
+### Comparison of Methods
+| Method            | Accuracy   | Cost       | Coverage   | Explainability |
+|-------------------|------------|------------|------------|----------------|
+| Extractive        | ★★★★☆      | ★★★★★      | ★★★★☆      | ★★★★☆          |
+| Generative        | ★★★☆☆      | ★★★★☆      | ★★★☆☆      | ★☆☆☆☆          |
+| Manual Annotation | ★★★★★      | ★★☆☆☆      | ★★★★★      | ★★★★★          |
+
+
 ## Reasoning Methods over Commonsense Causality
 
