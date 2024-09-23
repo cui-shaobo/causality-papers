@@ -161,6 +161,6 @@ According to the commonsense types (see Appendix for more background on commonse
 
 
 # If You Want to Know More Details
-![Alt text](./full-dataset-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
+![Alt text](./full-survey-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
 
 
