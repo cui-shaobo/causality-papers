@@ -19,20 +19,18 @@ If you find our survey useful for your research on commonsense causality, please
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Handbook for researchers interested in commonsense causality](#handbook-for-researchers-interested-in-commonsense-causality)
-- [Benchmarks](#benchmarks)
-  - [Classification by Commonsense Types](#classification-by-commonsense-types)
-  - [Overview of Causal Datasets](#overview-of-causal-datasets)
-- [Acquisition Methods over Commonsense Causality](#acquisition-methods-over-commonsense-causality)
-  - [Extractive Methods](#extractive-methods)
-    - [Papers](#papers)
-    - [Datasets/Workshops](#datasetsworkshops)
-  - [Generative Methods](#generative-methods)
-    - [Papers](#papers-1)
-  - [Manual Annotation Framework](#manual-annotation-framework)
-    - [Papers](#papers-2)
-  - [Comparison of Methods](#comparison-of-methods)
-- [Reasoning Methods over Commonsense Causality](#reasoning-methods-over-commonsense-causality)
+- [Main Part of This Paper List](#main-part-of-this-paper-list)
+  - [Handbook for researchers interested in commonsense causality](#handbook-for-researchers-interested-in-commonsense-causality)
+  - [Benchmarks](#benchmarks)
+    - [Classification by Commonsense Types](#classification-by-commonsense-types)
+    - [Overview of Causal Datasets](#overview-of-causal-datasets)
+  - [Acquisition Methods over Commonsense Causality](#acquisition-methods-over-commonsense-causality)
+    - [Extractive Methods](#extractive-methods)
+    - [Generative Methods](#generative-methods)
+    - [Manual Annotation Methods](#manual-annotation-methods)
+    - [Comparison of Methods](#comparison-of-methods)
+  - [Reasoning Methods over Commonsense Causality](#reasoning-methods-over-commonsense-causality)
+- [If You Want to Know More Details](#if-you-want-to-know-more-details)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
