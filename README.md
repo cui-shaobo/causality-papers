@@ -36,6 +36,8 @@ If you find our survey useful for your research on commonsense causality, please
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# Main Part of This Paper List
+
 ## Handbook for researchers interested in commonsense causality
 ![Alt text](./handbook-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
 
@@ -104,28 +106,50 @@ According to the commonsense types (see Appendix for more background on commonse
 ## Acquisition Methods over Commonsense Causality
 
 ### Extractive Methods
-#### Papers
-- Sakaji et al. (2008): "Extracting Causal Relationships Using Clue-Based Approaches."
-- Cole et al. (2006): "A Lightweight Tool for Automatically Extracting Causal Relationships from Text."
-- Girju (2003): "Automatic Detection of Causal Relations for Question Answering."
+1. Sakaji et al. (2008): "Extracting Causal Relationships Using Clue-Based Approaches."
+   - [Link to paper](https://example.com)
+2. Cole et al. (2006): "A Lightweight Tool for Automatically Extracting Causal Relationships from Text."
+   - [Link to paper](https://example.com)
+3. Girju (2003): "Automatic Detection of Causal Relations for Question Answering."
+   - [Link to paper](https://example.com)
+4. Blanco et al. (2008): "Causal Relation Extraction."
+   - [Link to paper](https://example.com)
+5. Zhao et al. (2016): "Event Extraction Using Causal Connectives."
+   - [Link to paper](https://example.com)
 
-#### Datasets/Workshops
-- SemEval07-T4: [Link to dataset](https://example.com)
-- CNN-extraction: [Link to dataset](https://example.com)
-- BioInfer: [Link to dataset](https://example.com)
+**Datasets/Competitions/Workshops for Extractive Methods**
+- **SemEval07-T4**: [Link to dataset](https://example.com)
+- **CNN-extraction**: [Link to dataset](https://example.com)
+- **BioInfer**: [Link to dataset](https://example.com)
+- **ADE**: [Link to dataset](https://example.com)
 
 ### Generative Methods
-#### Papers
-- Rashkin et al. (2018): "Event2Mind: Generating Intents/Reactions for Events."
-- Choudhry (2020): "CauseWorks: Generating Causal Graphs into Narratives."
+1. Rashkin et al. (2018): "Event2Mind: Generating Intents/Reactions for Events."
+   - [Link to paper](https://example.com)
+2. Choudhry (2020): "CauseWorks: Generating Causal Graphs into Textual Narratives."
+   - [Link to paper](https://example.com)
+3. Li et al. (2021): "Guided Causal Graph Generation Using Pattern Matching."
+   - [Link to paper](https://example.com)
+4. Kim et al. (2023): "SODA: A Dataset for Cause-Effect Pair Generation Using Large Language Models."
+   - [Link to paper](https://example.com)
 
-### Manual Annotation Framework
-#### Papers
-- Palmer et al. (2005): "PropBank: Proposition Bank Annotation Scheme."
-- Mihaila et al. (2013): "BioCause: A Dataset for Causal Annotations in Biomedical Text."
-- Dunietz (2018): "Annotating Causal Relations with CxG."
-- FrameNet: [Link to dataset](https://example.com)
-- PDTB: [Link to dataset](https://example.com)
+### Manual Annotation Methods
+1. Palmer et al. (2005): "PropBank: Proposition Bank Annotation Scheme."
+   - [Link to paper](https://example.com)
+2. Mihaila et al. (2013): "BioCause: A Dataset for Causal Annotations in Biomedical Text."
+   - [Link to paper](https://example.com)
+3. Dunietz (2018): "Annotating Causal Relations with CxG."
+   - [Link to paper](https://example.com)
+4. Mostafazadeh et al. (2016): "CaTeRs: A Dataset for Temporal and Causal Relations."
+   - [Link to paper](https://example.com)
+5. Mirza et al. (2014): "TimeML: Annotating Temporal and Causal Relations."
+   - [Link to paper](https://example.com)
+
+**Datasets for Manual Annotation**
+- **FrameNet**: [Link to dataset](https://example.com)
+- **PDTB**: [Link to dataset](https://example.com)
+- **TimeML**: [Link to dataset](https://example.com)
+
 
 ### Comparison of Methods
 | Method            | Accuracy   | Cost       | Coverage   | Explainability |
@@ -136,4 +160,9 @@ According to the commonsense types (see Appendix for more background on commonse
 
 
 ## Reasoning Methods over Commonsense Causality
+
+
+# If You Want to Know More Details
+![Alt text](./full-dataset-shaobo.png?raw=true "Handbook for researchers interested in commonsense causality.")
+
 
