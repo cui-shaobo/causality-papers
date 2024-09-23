@@ -179,23 +179,20 @@ Qualitative causal reasoning focuses on classifying cause-effect relationships i
 
 ### Quantitative Causal Reasoning
 Quantitative causal reasoning provides numerical estimates for causal effects, accounting for uncertainty and variability in causal relationships.
-
-1. **Suppes (1973):** "A Probabilistic Theory of Causality."
-   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-9117-0)
-2. **Eells (1991):** "Probabilistic Causality and Its Applications."
-   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-3837-3)
-3. **Pearl (2009):** "Causality: Models, Reasoning, and Inference."
-   - [Link to paper](https://www.cambridge.org/core/books/causality/72F92E2D7BC6D3F1AE111F9F77302A14)
-4. **Luo et al. (2016):** "CEQ: A Word-Level Causal Estimation Metric."
-   - [Link to paper](https://arxiv.org/abs/1612.05895)
-5. **Cui et al. (2024):** "CESAR: A Weighted Approach to Measuring Causal Strength in Text."
-   - [Link to paper](https://arxiv.org/abs/2401.03183)
-
-**Metrics for Quantitative Causal Reasoning**
-- **Good (1961):** "Log-Likelihood Metric for Causality Strength."
+1. **Good (1961):** "Log-Likelihood Metric for Causality Strength."
    - [Link to paper](https://doi.org/10.1093/mind/LXX_277_334)
-- **CESAR (Cui et al. 2024):** "Weighted Causal Strength Aggregation."
-   - [Link to paper](https://arxiv.org/abs/2401.03183)
+2. **Suppes (1973):** "A Probabilistic Theory of Causality."
+   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-9117-0)
+3. **Eells (1991):** "Probabilistic Causality and Its Applications."
+   - [Link to paper](https://link.springer.com/book/10.1007/978-94-009-3837-3)
+4. **Pearl (2009):** "Causality: Models, Reasoning, and Inference."
+   - [Link to paper](https://www.cambridge.org/core/books/causality/72F92E2D7BC6D3F1AE111F9F77302A14)
+5. **Luo et al. (2016):** "CEQ: A Word-Level Causal Estimation Metric."
+   - [AAAI paper](https://cdn.aaai.org/ocs/12818/12818-57567-1-PB.pdf)
+6. **Cui et al. (2024):** "CESAR: A Weighted Approach to Measuring Causal Strength in Text."
+   - [ACL Findings paper](https://aclanthology.org/2024.findings-acl.384/)
+
+
 
 
 
