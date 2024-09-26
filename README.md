@@ -106,11 +106,11 @@ According to the commonsense types (see Appendix for more background on commonse
 ## Acquisition Methods over Commonsense Causality
 
 ### Extractive Methods
-1. Sakaji et al. (2008): "Extracting Causal Knowledge Using Clue Phrases and Syntactic Patterns", [paper](https://link.springer.com/content/pdf/10.1007/978-3-540-89447-6_12.pdf) 
-2. Cole et al. (2006): "A lightweight tool for automatically extracting causal relationships from text, [paper](https://www.cse.sc.edu/~mgv/papers/coleSoutheastCon06.pdf)
-3. Girju (2003): "Automatic Detection of Causal Relations for Question Answering", [paper](https://aclanthology.org/W03-1210.pdf)
-4. Blanco et al. (2008): "Causal Relation Extraction", [paper](https://aclanthology.org/L08-1175/)
-5. Zhao et al. (2016): "Event Extraction Using Causal Connectives", [paper](https://www.sciencedirect.com/science/article/pii/S0925231215013995)
+1. Sakaji et al. (2008): "Extracting Causal Knowledge Using Clue Phrases and Syntactic Patterns", [paper](https://link.springer.com/content/pdf/10.1007/978-3-540-89447-6_12.pdf). 
+2. Cole et al. (2006): "A lightweight tool for automatically extracting causal relationships from text, [paper](https://www.cse.sc.edu/~mgv/papers/coleSoutheastCon06.pdf). 
+3. Girju (2003): "Automatic Detection of Causal Relations for Question Answering", [paper](https://aclanthology.org/W03-1210.pdf). 
+4. Blanco et al. (2008): "Causal Relation Extraction", [paper](https://aclanthology.org/L08-1175/). 
+5. Zhao et al. (2016): "Event Extraction Using Causal Connectives", [paper](https://www.sciencedirect.com/science/article/pii/S0925231215013995). 
 
 [//]: # (**Datasets/Competitions/Workshops for Extractive Methods**)
 
@@ -123,27 +123,25 @@ According to the commonsense types (see Appendix for more background on commonse
 [//]: # (- **ADE**: [Link to dataset]&#40;https://example.com&#41;)
 
 ### Generative Methods
-1. Rashkin et al. (2018): "Event2Mind: Commonsense Inference on Events, Intents, and Reactions", [paper](https://aclanthology.org/P18-1043/)
-2. Choudhry (2020): "Narrative Generation to Support Causal Exploration of Directed Graphs", [paper](https://vtechworks.lib.vt.edu/items/9e504fb4-bcbe-4146-826a-9831363ec687)
-3. Li et al. (2021): "Guided Generation of Cause and Effect", [paper](https://arxiv.org/abs/2107.09846)
-4. Kim et al. (2023): "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization", [paper](https://aclanthology.org/2023.emnlp-main.799/)
+1. Rashkin et al. (2018): "Event2Mind: Commonsense Inference on Events, Intents, and Reactions", [paper](https://aclanthology.org/P18-1043/). 
+2. Choudhry (2020): "Narrative Generation to Support Causal Exploration of Directed Graphs", [paper](https://vtechworks.lib.vt.edu/items/9e504fb4-bcbe-4146-826a-9831363ec687). 
+3. Li et al. (2021): "Guided Generation of Cause and Effect", [paper](https://arxiv.org/abs/2107.09846). 
+4. Kim et al. (2023): "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization", [paper](https://aclanthology.org/2023.emnlp-main.799/). 
 
 ### Manual Annotation Methods
-1. Palmer et al. (2005): "PropBank: Proposition Bank Annotation Scheme."
-   - [Link to paper](https://example.com)
-2. Mihaila et al. (2013): "BioCause: A Dataset for Causal Annotations in Biomedical Text."
-   - [Link to paper](https://example.com)
-3. Dunietz (2018): "Annotating Causal Relations with CxG."
-   - [Link to paper](https://example.com)
-4. Mostafazadeh et al. (2016): "CaTeRs: A Dataset for Temporal and Causal Relations."
-   - [Link to paper](https://example.com)
-5. Mirza et al. (2014): "TimeML: Annotating Temporal and Causal Relations."
-   - [Link to paper](https://example.com)
+1. Palmer et al. (2005): "The Proposition Bank: An Annotated Corpus of Semantic Roles", [paper](https://aclanthology.org/J05-1004.pdf). 
+2. Mihaila et al. (2013): "What causes a causal relation? Detecting Causal Triggers in Biomedical Scientific Discourse", [paper](https://aclanthology.org/P13-3006/). 
+3. Dunietz (2018): "Annotating and automatically tagging constructions of causal language", [thesis](https://jessedunietz.com/assets/publications/thesis.pdf). 
+4. Mostafazadeh et al. (2016): "CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures", [paper](https://aclanthology.org/W16-1007/). 
+5. Mirza et al. (2014): "Annotating Causality in the TempEval-3 Corpus", [paper](https://aclanthology.org/W14-0702/). 
 
-**Datasets for Manual Annotation**
-- **FrameNet**: [Link to dataset](https://example.com)
-- **PDTB**: [Link to dataset](https://example.com)
-- **TimeML**: [Link to dataset](https://example.com)
+[//]: # (**Datasets for Manual Annotation**)
+
+[//]: # (- **FrameNet**: [Link to dataset]&#40;https://example.com&#41;)
+
+[//]: # (- **PDTB**: [Link to dataset]&#40;https://example.com&#41;)
+
+[//]: # (- **TimeML**: [Link to dataset]&#40;https://example.com&#41;)
 
 
 ### Comparison of Methods
