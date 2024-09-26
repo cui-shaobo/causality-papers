@@ -157,15 +157,10 @@ According to the commonsense types (see Appendix for more background on commonse
 ### Qualitative Causal Reasoning
 Qualitative causal reasoning focuses on classifying cause-effect relationships in a binary fashion, often bypassing uncertainty through simplification.
 
-1. **Wei et al. (2022):** "Chain-of-Thought Prompting in Large Language Models."
-   - [Link to paper](https://arxiv.org/abs/2201.11903)
-2. **Jin et al. (2023):** "CLADDER: Causal Inference in Chain-of-Thought Reasoning."
-   - [Link to paper](https://arxiv.org/abs/2302.07236)
-3. **Zhang et al. (2022):** "ROCK: Causal Inference for NLP."
-   - [Link to paper](https://arxiv.org/abs/2207.11208)
-4. **Ning et al. (2018):** "Incorporating Temporal Constraints for Causal Reasoning."
-   - [Link to paper](https://arxiv.org/abs/1808.09506)
-5. **Zhang and Foo (2001):** "Embedding Logic Rules into Causal Reasoning Mechanisms."
+1. **Jin et al. (2023):** "CLadder: Assessing Causal Reasoning in Language Models", [paper](https://arxiv.org/abs/2312.04350). 
+2. **Zhang et al. (2022):** "ROCK : Causal Inference Principles for Reasoning about Commonsense Causality", [paper](https://proceedings.mlr.press/v162/zhang22am/zhang22am.pdf). 
+3. **Ning et al. (2018):** "Joint Reasoning for Temporal and Causal Relations", [paper] (https://arxiv.org/abs/1808.09506). 
+4. **Zhang and Foo (2001):** "Embedding Logic Rules into Causal Reasoning Mechanisms."
    - [Link to paper](https://arxiv.org/abs/2101.08604)
 
 
