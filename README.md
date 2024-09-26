@@ -106,32 +106,27 @@ According to the commonsense types (see Appendix for more background on commonse
 ## Acquisition Methods over Commonsense Causality
 
 ### Extractive Methods
-1. Sakaji et al. (2008): "Extracting Causal Relationships Using Clue-Based Approaches."
-   - [Link to paper](https://example.com)
-2. Cole et al. (2006): "A Lightweight Tool for Automatically Extracting Causal Relationships from Text."
-   - [Link to paper](https://example.com)
-3. Girju (2003): "Automatic Detection of Causal Relations for Question Answering."
-   - [Link to paper](https://example.com)
-4. Blanco et al. (2008): "Causal Relation Extraction."
-   - [Link to paper](https://example.com)
-5. Zhao et al. (2016): "Event Extraction Using Causal Connectives."
-   - [Link to paper](https://example.com)
+1. Sakaji et al. (2008): "Extracting Causal Knowledge Using Clue Phrases and Syntactic Patterns", [paper](https://link.springer.com/content/pdf/10.1007/978-3-540-89447-6_12.pdf) 
+2. Cole et al. (2006): "A lightweight tool for automatically extracting causal relationships from text, [paper](https://www.cse.sc.edu/~mgv/papers/coleSoutheastCon06.pdf)
+3. Girju (2003): "Automatic Detection of Causal Relations for Question Answering", [paper](https://aclanthology.org/W03-1210.pdf)
+4. Blanco et al. (2008): "Causal Relation Extraction", [paper](https://aclanthology.org/L08-1175/)
+5. Zhao et al. (2016): "Event Extraction Using Causal Connectives", [paper](https://www.sciencedirect.com/science/article/pii/S0925231215013995)
 
-**Datasets/Competitions/Workshops for Extractive Methods**
-- **SemEval07-T4**: [Link to dataset](https://example.com)
-- **CNN-extraction**: [Link to dataset](https://example.com)
-- **BioInfer**: [Link to dataset](https://example.com)
-- **ADE**: [Link to dataset](https://example.com)
+[//]: # (**Datasets/Competitions/Workshops for Extractive Methods**)
+
+[//]: # (- **SemEval07-T4**: [Link to dataset]&#40;https://example.com&#41;)
+
+[//]: # (- **CNN-extraction**: [Link to dataset]&#40;https://example.com&#41;)
+
+[//]: # (- **BioInfer**: [Link to dataset]&#40;https://example.com&#41;)
+
+[//]: # (- **ADE**: [Link to dataset]&#40;https://example.com&#41;)
 
 ### Generative Methods
-1. Rashkin et al. (2018): "Event2Mind: Generating Intents/Reactions for Events."
-   - [Link to paper](https://example.com)
-2. Choudhry (2020): "CauseWorks: Generating Causal Graphs into Textual Narratives."
-   - [Link to paper](https://example.com)
-3. Li et al. (2021): "Guided Causal Graph Generation Using Pattern Matching."
-   - [Link to paper](https://example.com)
-4. Kim et al. (2023): "SODA: A Dataset for Cause-Effect Pair Generation Using Large Language Models."
-   - [Link to paper](https://example.com)
+1. Rashkin et al. (2018): "Event2Mind: Commonsense Inference on Events, Intents, and Reactions", [paper](https://aclanthology.org/P18-1043/)
+2. Choudhry (2020): "Narrative Generation to Support Causal Exploration of Directed Graphs", [paper](https://vtechworks.lib.vt.edu/items/9e504fb4-bcbe-4146-826a-9831363ec687)
+3. Li et al. (2021): "Guided Generation of Cause and Effect", [paper](https://arxiv.org/abs/2107.09846)
+4. Kim et al. (2023): "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization", [paper](https://aclanthology.org/2023.emnlp-main.799/)
 
 ### Manual Annotation Methods
 1. Palmer et al. (2005): "PropBank: Proposition Bank Annotation Scheme."
