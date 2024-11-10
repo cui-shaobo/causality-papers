@@ -6,12 +6,24 @@ This is the paper list for the literature summarized in our survey published in 
 If you find our survey useful for your research on commonsense causality, please support us by citing our work as follows:
 
 ```bibtex
-@article{cui2024odyssey,
-  title={The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning},
-  author={Cui, Shaobo and Jin, Zhijing and Sch{\"o}lkopf, Bernhard and Faltings, Boi},
-  journal={arXiv preprint arXiv:2406.19307},
-  year={2024}
+@inproceedings{cui-etal-2024-odyssey,
+    title = "The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning",
+    author = {Cui, Shaobo  and
+      Jin, Zhijing  and
+      Sch{\"o}lkopf, Bernhard  and
+      Faltings, Boi},
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.932",
+    pages = "16722--16763",
 }
+
 ```
 
 
