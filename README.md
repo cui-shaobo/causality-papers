@@ -1,5 +1,5 @@
 # Papers about Commonsense Causality
-This is the paper list for the literature summarized in our survey published in EMNLP 2024: [The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning](https://arxiv.org/abs/2406.19307)
+This is the paper list for the literature summarized in our survey published in EMNLP 2024: [The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning](https://aclanthology.org/2024.emnlp-main.932/)
 
 ## Citation 🫡
 
